@@ -226,7 +226,7 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SrPimentus&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lbarretto&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
