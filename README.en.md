@@ -237,16 +237,6 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SrPimentus&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Top Certifications
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
