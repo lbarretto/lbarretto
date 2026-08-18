@@ -221,6 +221,7 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🏆 Principais Certificações
@@ -309,7 +310,7 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 
 </table>
 
----
+
 
 <h2 align="center">📬 Vamos nos conectar</h2>
 
