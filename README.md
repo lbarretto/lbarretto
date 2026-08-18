@@ -221,15 +221,6 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </td>
 </tr>
 </table>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lbarretto&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Principais Certificações
