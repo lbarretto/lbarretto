@@ -43,6 +43,23 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
 <br>
 
 ---
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=lbarretto&include_all_commits=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=lbarretto&layout=compact&langs_count=4&theme=transparent"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
 
 ## 🗂️ Projetos em Destaque
 
@@ -330,7 +347,6 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
 </tr>
 
 </table>
-
 
 
 <h2 align="center">📬 Vamos nos conectar</h2>
