@@ -399,7 +399,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasPBar&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lbaretto&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
 </p>
 
 <br>
