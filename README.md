@@ -1,11 +1,11 @@
 <!-- LANGUAGE TOGGLE -->
 <p align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇧🇷%20Português-switch-555555?style=for-the-badge" alt="Português"/>
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-ativo-0E75B6?style=for-the-badge" alt="Português"/>
   </a>
   &nbsp;
   <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/🇺🇸%20English-active-0E75B6?style=for-the-badge" alt="English"/>
+    <img src="https://img.shields.io/badge/🇺🇸%20English-switch-555555?style=for-the-badge" alt="English"/>
   </a>
 </p>
 
@@ -34,22 +34,22 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
 <img align="right" width="180" alt="Data Analytics GIF" src="https://github.com/user-attachments/assets/af01a269-25bc-4e68-9501-6238227d3022" />
 
-I hold a Bachelor's degree in *Production Engineering* and a *Postgraduate Specialization in Data Science*. I have practical experience in **Data Analysis & Visualization**, **Machine Learning**, and **ETL**, transforming raw data into **strategic insights** that empower decision-making processes.
+Sou bacharel em *Engenharia de Produção* e possuo *Pós-graduação em Ciência de Dados*. Tenho experiência prática em **Análise e Visualização de Dados**, **Machine Learning** e **ETL**, transformando dados em **insights estratégicos** que apoiam a tomada de decisão.
 
-My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, alongside libraries such as **Pandas**, **NumPy**, and **Scikit-Learn**. I am always looking to apply data exploration, cleaning, and visualization techniques to challenging real-world projects. I am also an **AWS Certified Cloud Practitioner**, possessing foundational expertise in Cloud Computing.
+Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de bibliotecas como **Pandas**, **NumPy** e **Scikit-Learn**, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores. Sou também certificado em **AWS Certified Cloud Practitioner**, com conhecimento fundamental em Cloud Computing.
 
 <br clear="right"/>
 
 ---
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- LEFT COLUMN: STATS -->
+    <!-- COLUNA DA ESQUERDA: ESTATÍSTICAS -->
     <td align="center" valign="middle">
       <img
         src="https://github-stats-extended.vercel.app/api?username=lbarretto&include_all_commits=true&theme=transparent"
@@ -61,7 +61,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
         alt="Most Used Languages"
       />
     </td>
-    <!-- RIGHT COLUMN: GIF -->
+    <!-- COLUNA DA DIREITA: GIF -->
     <td align="center" valign="middle" width="480">
       <img 
         width="450" 
@@ -74,52 +74,52 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-## 🗂️ Featured Projects
+## 🗂️ Projetos em Destaque
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="500" valign="top">
       <h3>🗽 NYC Taxi Fare Prediction</h3>
-      <p>Regression model to predict taxi fares in NYC using real-world data — supporting smart urban mobility and strategic decision-making.</p>
+      <p>Modelo de regressão para prever tarifas de táxi em NYC com dados reais — apoiando a mobilidade urbana inteligente e a tomada de decisão estratégica.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Regression-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Regressão-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/lbarretto/Automatidata_Project">📁 View Repository</a>
+      <a href="https://github.com/lbarretto/Automatidata_Project">📁 Ver Repositório</a>
     </td>
     <td width="500" valign="top">
-      <h3>🏢 Salifort Motors — Employee Turnover</h3>
-      <p>Classification model to predict employee attrition — EDA, ethical analysis, and strategic HR insights.</p>
+      <h3>🏢 Salifort Motors — Rotatividade de Funcionários</h3>
+      <p>Modelo de classificação para prever rotatividade de funcionários — EDA, análise ética e insights estratégicos de RH.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Classification-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Classificação-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/lbarretto/Salifort-People-Analytics">📁 View Repository</a>
+      <a href="https://github.com/lbarretto/Salifort-People-Analytics">📁 Ver Repositório</a>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="500" valign="top">
-      <h3>🏦 Digital Bank — Relational Database</h3>
-      <p>Relational database model for a digital bank — covering transactions, risk analysis, data governance, and security.</p>
+      <h3>🏦 Banco Digital — Banco de Dados Relacional</h3>
+      <p>Modelo de banco de dados relacional para um banco digital — cobrindo transações, análise de risco, governança e segurança de dados.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Governance-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Governança-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/lbarretto/Digital_Bank">📁 View Repository</a>
+      <a href="https://github.com/lbarretto/Digital_Bank">📁 Ver Repositório</a>
     </td>
     <td width="500" valign="top">
-      <h3>📦 E-Commerce — Sales Analysis</h3>
-      <p>E-commerce sales data analysis — exploring patterns, trends, and business insights to support data-driven decisions.</p>
+      <h3>📦 E-Commerce — Análise de Vendas</h3>
+      <p>Análise de dados de vendas em e-commerce — explorando padrões, tendências e insights para apoiar decisões de negócio.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/EDA-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/lbarretto/E-commerce-Sales-Dataset">📁 View Repository</a>
+      <a href="https://github.com/lbarretto/E-commerce-Sales-Dataset">📁 Ver Repositório</a>
     </td>
   </tr>
 </table>
@@ -128,8 +128,8 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-## 🛠️ Technical Skills
-<h2 align="center">💻 Languages & Data Analysis</h2>
+## 🛠️ Habilidades Técnicas
+<h2 align="center">💻 Linguagens & Análise de Dados</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -160,7 +160,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-<h2 align="center">📊 Visualization & BI</h2>
+<h2 align="center">📊 Visualização & BI</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -180,7 +180,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-<h2 align="center">🗄️ Databases</h2>
+<h2 align="center">🗄️ Bancos de Dados</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -228,7 +228,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-<h2 align="center">🔁 Version Control & Tools</h2>
+<h2 align="center">🔁 Versionamento & Ferramentas</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -251,7 +251,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 ---
 
-## 🏆 Key Certifications
+## 🏆 Principais Certificações
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 
@@ -261,16 +261,16 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 <h3>🎓 AWS Certified Cloud Practitioner</h3>
 
-<p>Foundational certification in AWS Cloud computing, covering core IT services, cloud architecture, security, and pricing models — validating cloud fluency and expertise required for AWS-driven projects.</p>
+<p>Certificação fundamental em computação em nuvem AWS, abrangendo conceitos essenciais de serviços de TI, arquitetura, segurança e modelo de precificação, validando fluência em nuvem e o conhecimento necessário para atuar em projetos focados em AWS.</p>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Fluency-0E75B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fundamentals-232F3E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fundamentos-232F3E?style=flat-square"/>
 </p>
 
 <a href="https://www.credly.com/earner/earned/badge/da12a14e-2249-4491-bd74-dbf95ffaef79" target="_blank">
-🏅 View Certificate
+🏅 Ver Certificado
 </a>
 
 </td>
@@ -279,16 +279,16 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 <h3>📊 Google Advanced Data Analytics</h3>
 
-<p>Advanced specialization in statistical analysis, regression modeling, Machine Learning, and Data Storytelling through hands-on Python projects using real-world datasets.</p>
+<p>Formação avançada em análise estatística, regressão, Machine Learning e Data Storytelling, com projetos práticos desenvolvidos em Python utilizando conjuntos de dados reais.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Statistics-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Estatística-0E75B6?style=flat-square"/>
 </p>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/QL2ZSP8Y4DE6" target="_blank">
-🏅 View Certificate
+🏅 Ver Certificado
 </a>
 
 </td>
@@ -301,7 +301,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 <h3>📈 Google Data Analytics</h3>
 
-<p>Core data analytics concepts covering the entire analytical lifecycle, from data cleaning and SQL queries to visualization and insight generation using Tableau and R.</p>
+<p>Fundamentos de análise de dados cobrindo todo o ciclo analítico, desde limpeza de dados e consultas SQL até visualização e geração de insights utilizando Tableau e R.</p>
 
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -310,7 +310,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 </p>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/C6VLHUG7QF97" target="_blank">
-🏅 View Certificate
+🏅 Ver Certificado
 </a>
 
 </td>
@@ -319,16 +319,16 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 <h3>🗂️ Google Project Management</h3>
 
-<p>Comprehensive project management methodology covering planning, execution, risk management, and Agile frameworks applied to real-world scenarios.</p>
+<p>Metodologia completa de gerenciamento de projetos, incluindo planejamento, execução, gestão de riscos e metodologias ágeis aplicadas a cenários reais.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Agile-0E75B6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scrum-001F3F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Risk%20Management-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gestão%20de%20Riscos-0E75B6?style=flat-square"/>
 </p>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/0LZ2HCFF0E6L" target="_blank">
-🏅 View Certificate
+🏅 Ver Certificado
 </a>
 
 </td>
@@ -341,7 +341,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 
 <h3>☁️ AWS re/Start Graduate</h3>
 
-<p>AWS re/Start is a workforce development program that prepares individuals for cloud computing careers. Supported by professional mentors and accredited instructors, graduates complete hands-on labs, real-world scenario learning, and coursework.</p>
+<p>O AWS re/Start é um programa de desenvolvimento de habilidades e treinamento profissional que prepara os alunos para carreiras na nuvem. Cada turma, com o apoio de mentores profissionais e instrutores credenciados, completa um treinamento que inclui aprendizado baseado em cenários do mundo real, laboratórios práticos e cursos.</p>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -350,7 +350,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 </p>
 
 <a href="https://www.credly.com/badges/a6877d4d-3c30-4cb7-a528-c635b01926a4/public_url" target="_blank">
-🏅 View Certificate
+🏅 Ver Certificado
 </a>
 
 </td>
@@ -364,7 +364,7 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 <br>
 
 ---
-## 📬 Let's Connect
+## 📬 Vamos nos conectar
 
 <!-- CARDS GITHUB & LINKEDIN -->
 <table align="center" border="0" cellspacing="10" cellpadding="0">
@@ -391,30 +391,30 @@ My daily stack includes **Python**, **SQL**, **MATLAB**, and **Power BI**, along
 <!-- BANNER DE AGRADECIMENTO NAS CORES DO PERFIL -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:001F3F&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&fontAlignY=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:001F3F&height=180&section=footer&text=Obrigado%20pela%20visita!&fontSize=40&fontColor=ffffff&fontAlignY=50"
     width="100%"
-    alt="Thanks for visiting!"
+    alt="Obrigado pela visita!"
   />
 </p>
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lbarretto&color=0E75B6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lbarretto&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
 </p>
 
 <br>
 
 <!-- CITAÇÃO -->
 <p align="center">
-  <b>"Data is the new oil, but like oil, it's useless unless refined." — Clive Humby</b>
+  <b>"Dados são o novo petróleo, mas, assim como o petróleo, são inúteis a menos que sejam refinados." — Clive Humby</b>
 </p>
 
 <!-- TEXTO DE CONVITE -->
 <p align="center">
-  <i>Feel free to explore my repositories and star any projects you find interesting!</i>
+  <i>Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!</i>
 </p>
 
 <!-- ASSINATURA -->
 <p align="center">
-  <i>Built with dedication by <a href="https://github.com/lbarretto">Lucas Barretto</a></i>
+  <i>Desenvolvido com dedicação por <a href="https://github.com/lbarretto">Lucas Barretto</a></i>
 </p>
