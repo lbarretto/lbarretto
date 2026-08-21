@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- BANNER ANIMADO -->
+<!-- ANIMATED BANNER -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:001F3F&height=220&section=header&text=Hi%20👋,%20I'm%20Lucas%20Barretto&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Production%20Engineering%20%7C%20Data%20Science%20Postgraduate&descAlignY=60&descAlign=50"
@@ -17,7 +17,7 @@
   />
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- ALIGNED TYPING EFFECT -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Production+Engineer;Turning+Raw+Data+into+Strategic+Insights;Python+%7C+SQL+%7C+Power+BI;Exploratory+Analysis+%7C+Data+Visualization;Building+Dashboards+that+Drive+Decisions"
@@ -25,7 +25,7 @@
   />
 </p>
 
-<!-- MAIN IMAGE -->
+<!-- ALIGNED MAIN IMAGE -->
 <p align="center">
   <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/726be6a0-ed22-4b1d-a014-f0358167c61c" />
 </p>
@@ -36,11 +36,29 @@
 
 ## 🚀 About Me
 
-I hold a degree in *Production Engineering* and a *Postgraduate degree in Data Science*. I have hands-on experience in **Data Analysis and Visualization**, **Machine Learning**, and **ETL**, transforming raw data into **strategic insights** that support decision-making.
+I hold a Bachelor's degree in *Production Engineering* and a *Postgraduate degree in Data Science*. I have practical experience in **Data Analysis and Visualization**, **Machine Learning**, and **ETL**, transforming data into **strategic insights** that support decision-making.
 
-My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with libraries such as **Pandas**, **NumPy**, and **Scikit-Learn** — always looking to apply data exploration, cleaning, and visualization techniques in practical and challenging projects. I am also certified as an **AWS Certified Cloud Practitioner**, with foundational knowledge in Cloud Computing.
+My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, as well as libraries such as **Pandas**, **NumPy**, and **Scikit-Learn**, always seeking to apply data exploration, cleaning, and visualization techniques to practical and challenging projects. I am also certified as an **AWS Certified Cloud Practitioner**, with foundational knowledge in Cloud Computing.
 
 <br>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=lbarretto&include_all_commits=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=lbarretto&layout=compact&langs_count=4&theme=transparent"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
@@ -50,7 +68,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
   <tr>
     <td width="500" valign="top">
       <h3>🗽 NYC Taxi Fare Prediction</h3>
-      <p>Regression model to predict NYC taxi fares using real data — supporting smart urban mobility and strategic decision-making.</p>
+      <p>Regression model to predict taxi fares in NYC using real-world data — supporting smart urban mobility and strategic decision-making.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -60,7 +78,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
     </td>
     <td width="500" valign="top">
       <h3>🏢 Salifort Motors — Employee Turnover</h3>
-      <p>Classification model to predict employee churn — EDA, ethical analysis, and strategic HR insights.</p>
+      <p>Classification model to predict employee turnover — EDA, ethical analysis, and strategic HR insights.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -99,7 +117,6 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 ---
 
 ## 🛠️ Technical Skills
-
 <h2 align="center">💻 Programming Languages & Data Analysis</h2>
 <table align="center">
 <tr>
@@ -108,7 +125,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 </td>
 
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/><br><sub><b>MATLAB</b></sub>
+<img src="https://skillicons.dev/icons?i=matlab" width="50"/><br><sub><b>MATLAB</b></sub>
 </td>
 
 <td align="center" width="120">
@@ -131,21 +148,18 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 ---
 
-<h2 align="center">📊 Data Visualization & Business Intelligence</h2>
+<h2 align="center">📊 Visualization & BI</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/><br><sub><b>Matplotlib</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br><sub><b>Seaborn</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br><sub><b>Streamlit</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br><sub><b>Power BI</b></sub>
 </td>
@@ -160,15 +174,12 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50"/><br><sub><b>SQL Server</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/dbeaver/382923" width="50"/><br><sub><b>DBeaver</b></sub>
 </td>
@@ -183,11 +194,9 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br><sub><b>Scikit-Learn</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/keras/D00000" width="50"/><br><sub><b>Keras</b></sub>
 </td>
@@ -207,25 +216,21 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 ---
 
-<h2 align="center">🔁 Version Control & Development Tools</h2>
+<h2 align="center">🔁 Version Control & Tools</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
 </td>
-
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>Visual Studio Code</b></sub>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
 </td>
-
 <td align="center" width="120">
-<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br><sub><b>Jupyter Notebook</b></sub>
+<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br><sub><b>Jupyter</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/><br><sub><b>n8n</b></sub>
 </td>
@@ -234,7 +239,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 ---
 
-## 🏆 Top Certifications
+## 🏆 Main Certifications
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 
@@ -244,12 +249,12 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 <h3>🎓 AWS Certified Cloud Practitioner</h3>
 
-<p>Foundational AWS Cloud certification covering core IT service concepts, cloud architecture, security, and pricing models, validating cloud fluency and the knowledge needed to support AWS-focused projects.</p>
+<p>Foundational certification in AWS cloud computing, covering essential concepts of IT services, architecture, security, and pricing models, validating cloud fluency and the knowledge required to work on AWS-focused projects.</p>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Fluency-0E75B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fundamentals-232F3E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Foundations-232F3E?style=flat-square"/>
 </p>
 
 <a href="https://www.credly.com/earner/earned/badge/da12a14e-2249-4491-bd74-dbf95ffaef79" target="_blank">
@@ -262,7 +267,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 <h3>📊 Google Advanced Data Analytics</h3>
 
-<p>Advanced training in statistical analysis, regression, Machine Learning, and Data Storytelling, featuring hands-on projects developed in Python using real-world datasets.</p>
+<p>Advanced training in statistical analysis, regression, Machine Learning, and Data Storytelling, with practical projects developed in Python using real-world datasets.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -284,7 +289,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 <h3>📈 Google Data Analytics</h3>
 
-<p>Foundations of data analytics covering the entire analytical lifecycle, from data cleaning and SQL queries to visualization and insight generation using Tableau and R.</p>
+<p>Foundations of data analysis covering the entire analytical cycle, from data cleaning and SQL queries to visualization and insight generation using Tableau and R.</p>
 
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -302,7 +307,7 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 <h3>🗂️ Google Project Management</h3>
 
-<p>Comprehensive project management methodology, including planning, execution, risk management, and agile frameworks applied to real-world scenarios.</p>
+<p>Comprehensive project management methodology, including planning, execution, risk management, and agile methodologies applied to real-world scenarios.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Agile-0E75B6?style=flat-square"/>
@@ -320,11 +325,11 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 <tr>
 
-<td colspan="2" align="center" valign="top">
+<td width="500" valign="top">
 
 <h3>☁️ AWS re/Start Graduate</h3>
 
-<p>AWS re/Start is a skills development and job training program that prepares learners for cloud computing careers. Each cohort, supported by professional mentors and accredited instructors, completes training featuring scenario-based learning, hands-on labs, and coursework.</p>
+<p>AWS re/Start is a skills development and professional training program that prepares learners for careers in the cloud. Each cohort, supported by professional mentors and accredited instructors, completes training that includes real-world scenario-based learning, hands-on labs, and courses.</p>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -338,11 +343,12 @@ My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with l
 
 </td>
 
+<td width="500"></td>
+
 </tr>
 
 </table>
 
----
 
 <h2 align="center">📬 Let's Connect</h2>
 
