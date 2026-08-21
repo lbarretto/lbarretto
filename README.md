@@ -86,7 +86,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Regressão-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/LucasPBar/Automatidata_Project">📁 Ver Repositório</a>
+      <a href="https://github.com/lbarretto/Automatidata_Project">📁 Ver Repositório</a>
     </td>
     <td width="500" valign="top">
       <h3>🏢 Salifort Motors — Rotatividade de Funcionários</h3>
@@ -96,7 +96,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Classificação-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/LucasPBar/Salifort-People-Analytics">📁 Ver Repositório</a>
+      <a href="https://github.com/lbarretto/Salifort-People-Analytics">📁 Ver Repositório</a>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -109,7 +109,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Governança-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/LucasPBar/Digital_Bank">📁 Ver Repositório</a>
+      <a href="https://github.com/lbarretto/Digital_Bank">📁 Ver Repositório</a>
     </td>
     <td width="500" valign="top">
       <h3>📦 E-Commerce — Análise de Vendas</h3>
@@ -119,7 +119,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/EDA-0E75B6?style=flat-square"/>
       </p>
-      <a href="https://github.com/LucasPBar/E-commerce-Sales-Dataset">📁 Ver Repositório</a>
+      <a href="https://github.com/lbarretto/E-commerce-Sales-Dataset">📁 Ver Repositório</a>
     </td>
   </tr>
 </table>
@@ -371,7 +371,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
   <tr>
     <!-- CARD GITHUB -->
     <td align="center" valign="middle" width="220" height="60" bgcolor="#0E75B6" style="border-radius: 8px;">
-      <a href="https://github.com/LucasPBar" target="_blank" style="text-decoration: none;">
+      <a href="https://github.com/lbarretto" target="_blank" style="text-decoration: none;">
         <img src="https://img.icons8.com/fluent-systems-filled/50/ffffff/github.png" width="32" height="32" valign="middle" alt="GitHub"/>
         &nbsp;
         <font color="#ffffff" size="4" valign="middle"><b>GitHub</b></font>
@@ -399,7 +399,7 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lbaretto&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lbarretto&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
 </p>
 
 <br>
