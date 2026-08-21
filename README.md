@@ -36,9 +36,9 @@
 
 ## 🚀 Sobre mim
 
-Sou bacharel em *Engenharia de Produção* e possuo *Pós-graduação em Ciência de Dados*. Tenho experiência prática em **Análise e Visualização de Dados**, transformando dados em **insights estratégicos** que apoiam a tomada de decisão.
+Sou bacharel em *Engenharia de Produção* e possuo *Pós-graduação em Ciência de Dados*. Tenho experiência prática em **Análise e Visualização de Dados**, **Machine Learning** e **ETL**, transformando dados em **insights estratégicos** que apoiam a tomada de decisão.
 
-Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas como **Pandas** e **NumPy**, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores.
+Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de bibliotecas como **Pandas**, **NumPy** e **Scikit-Learn**, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores. Sou também certificado em **AWS Certified Cloud Practitioner**, com conhecimento fundamental em Cloud Computing.
 
 <br>
 
