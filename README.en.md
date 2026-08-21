@@ -245,6 +245,24 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 <td width="500" valign="top">
 
+<h3>🎓 AWS Certified Cloud Practitioner</h3>
+
+<p>Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Fluency-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fundamentals-232F3E?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/earner/earned/badge/da12a14e-2249-4491-bd74-dbf95ffaef79" target="_blank">
+🏅 View Certificate
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
 <h3>📊 Google Advanced Data Analytics</h3>
 
 <p>Advanced training in statistical analysis, regression, Machine Learning, and Data Storytelling, featuring hands-on projects developed in Python using real-world datasets.</p>
@@ -260,6 +278,10 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="500" valign="top">
 
@@ -279,10 +301,6 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="500" valign="top">
 
 <h3>🗂️ Google Project Management</h3>
@@ -301,6 +319,10 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="500" valign="top">
 
 <h3>☁️ AWS re/Start Graduate</h3>
@@ -318,6 +340,8 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 </a>
 
 </td>
+
+<td width="500"></td>
 
 </tr>
 
