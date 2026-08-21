@@ -232,6 +232,24 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 
 <td width="500" valign="top">
 
+<h3>🎓 AWS Certified Cloud Practitioner</h3>
+
+<p>Certificação fundamental em computação em nuvem AWS, abrangendo conceitos essenciais de serviços de TI, arquitetura, segurança e modelo de precificação, validando fluência em nuvem e o conhecimento necessário para atuar em projetos focados em AWS.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Fluency-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fundamentos-232F3E?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/earner/earned/badge/da12a14e-2249-4491-bd74-dbf95ffaef79" target="_blank">
+🏅 Ver Certificado
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
 <h3>📊 Google Advanced Data Analytics</h3>
 
 <p>Formação avançada em análise estatística, regressão, Machine Learning e Data Storytelling, com projetos práticos desenvolvidos em Python utilizando conjuntos de dados reais.</p>
@@ -247,6 +265,10 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="500" valign="top">
 
@@ -266,10 +288,6 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="500" valign="top">
 
 <h3>🗂️ Google Project Management</h3>
@@ -288,6 +306,10 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="500" valign="top">
 
 <h3>☁️ AWS re/Start Graduate</h3>
@@ -305,6 +327,8 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </a>
 
 </td>
+
+<td width="500"></td>
 
 </tr>
 
