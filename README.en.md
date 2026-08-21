@@ -36,9 +36,9 @@
 
 ## 🚀 About Me
 
-I hold a degree in *Production Engineering* and a *Postgraduate degree in Data Science*. I have hands-on experience in **Data Analysis and Visualization**, transforming raw data into **strategic insights** that support decision-making.
+I hold a degree in *Production Engineering* and a *Postgraduate degree in Data Science*. I have hands-on experience in **Data Analysis and Visualization**, **Machine Learning**, and **ETL**, transforming raw data into **strategic insights** that support decision-making.
 
-My work involves **Python**, **SQL**, and **Power BI**, along with libraries such as **Pandas** and **NumPy** — always looking to apply data exploration, cleaning, and visualization techniques in practical and challenging projects.
+My work involves **Python**, **SQL**, **MATLAB**, and **Power BI**, along with libraries such as **Pandas**, **NumPy**, and **Scikit-Learn** — always looking to apply data exploration, cleaning, and visualization techniques in practical and challenging projects. I am also certified as an **AWS Certified Cloud Practitioner**, with foundational knowledge in Cloud Computing.
 
 <br>
 
@@ -320,7 +320,7 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 <tr>
 
-<td width="500" valign="top">
+<td colspan="2" align="center" valign="top">
 
 <h3>☁️ AWS re/Start Graduate</h3>
 
@@ -337,8 +337,6 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 </a>
 
 </td>
-
-<td width="500"></td>
 
 </tr>
 
