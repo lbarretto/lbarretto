@@ -27,10 +27,7 @@
 
 <!-- MAIN IMAGE -->
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/147ef66f-ee8f-499d-8d06-4d0faa014365"
-    width="900"
-  />
+  <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/726be6a0-ed22-4b1d-a014-f0358167c61c" />
 </p>
 
 <br>
