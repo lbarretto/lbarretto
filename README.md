@@ -36,28 +36,41 @@
 
 ## 🚀 Sobre mim
 
+<img align="right" width="180" alt="Data Analytics GIF" src="https://github.com/user-attachments/assets/af01a269-25bc-4e68-9501-6238227d3022" />
+
 Sou bacharel em *Engenharia de Produção* e possuo *Pós-graduação em Ciência de Dados*. Tenho experiência prática em **Análise e Visualização de Dados**, **Machine Learning** e **ETL**, transformando dados em **insights estratégicos** que apoiam a tomada de decisão.
 
 Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de bibliotecas como **Pandas**, **NumPy** e **Scikit-Learn**, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores. Sou também certificado em **AWS Certified Cloud Practitioner**, com conhecimento fundamental em Cloud Computing.
 
-<br>
+<br clear="right"/>
 
 ---
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=lbarretto&include_all_commits=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=lbarretto&layout=compact&langs_count=4&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- COLUNA DA ESQUERDA: ESTATÍSTICAS -->
+    <td align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=lbarretto&include_all_commits=true&theme=transparent"
+        alt="GitHub Stats"
+      />
+      <br/><br/>
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=lbarretto&layout=compact&langs_count=4&theme=transparent"
+        alt="Most Used Languages"
+      />
+    </td>
+    <!-- COLUNA DA DIREITA: GIF -->
+    <td align="center" valign="middle" width="480">
+      <img 
+        width="450" 
+        alt="Data Analytics GIF" 
+        src="https://github.com/user-attachments/assets/89aa0231-0714-4724-ad39-1e09ca4419e0" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -348,15 +361,60 @@ Minha atuação envolve **Python**, **SQL**, **MATLAB** e **Power BI**, além de
 
 </table>
 
+<br>
 
-<h2 align="center">📬 Vamos nos conectar</h2>
+---
+## 📬 Vamos nos conectar
 
+<!-- CARDS GITHUB & LINKEDIN -->
+<table align="center" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <!-- CARD GITHUB -->
+    <td align="center" valign="middle" width="220" height="60" bgcolor="#0E75B6" style="border-radius: 8px;">
+      <a href="https://github.com/LucasPBar" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/fluent-systems-filled/50/ffffff/github.png" width="32" height="32" valign="middle" alt="GitHub"/>
+        &nbsp;
+        <font color="#ffffff" size="4" valign="middle"><b>GitHub</b></font>
+      </a>
+    </td>
+    <!-- CARD LINKEDIN -->
+    <td align="center" valign="middle" width="220" height="60" bgcolor="#0077B5" style="border-radius: 8px;">
+      <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" valign="middle" alt="LinkedIn"/>
+        &nbsp;
+        <font color="#ffffff" size="4" valign="middle"><b>LinkedIn</b></font>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- BANNER DE AGRADECIMENTO NAS CORES DO PERFIL -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Barretto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:001F3F&height=180&section=footer&text=Obrigado%20pela%20visita!&fontSize=40&fontColor=ffffff&fontAlignY=50"
+    width="100%"
+    alt="Obrigado pela visita!"
+  />
 </p>
 
+<!-- CONTADOR DE VISUALIZAÇÕES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasPBar&color=0077B5&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LucasPBar&color=0E75B6&style=flat-square&label=VISUALIZAÇÃO+DO+PERFIL" alt="Profile Views" />
+</p>
+
+<br>
+
+<!-- CITAÇÃO -->
+<p align="center">
+  <b>"Dados são o novo petróleo, mas, assim como o petróleo, são inúteis a menos que sejam refinados." — Clive Humby</b>
+</p>
+
+<!-- TEXTO DE CONVITE -->
+<p align="center">
+  <i>Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!</i>
+</p>
+
+<!-- ASSINATURA -->
+<p align="center">
+  <i>Desenvolvido com dedicação por <a href="https://github.com/lbarretto">Lucas Barretto</a></i>
 </p>
